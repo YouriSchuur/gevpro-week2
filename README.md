@@ -1,4 +1,3 @@
 # gevpro-week2
-gevorderd programmeren week 2
-
 Youri Schuur
+Dit is een een opdracht voor gevorderd programmeren voor week 2.
