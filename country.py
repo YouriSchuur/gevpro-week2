@@ -15,4 +15,8 @@ def main(argv):
 		
 		
 if __name__ == "__main__":
+<<<<<<< HEAD
 	main(sys.argv)
+=======
+	main(sys.argv)
+>>>>>>> 3af13a53f84d0ff9906d937526454fd296904119
